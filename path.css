@@ -214,6 +214,8 @@ h1, h2, h3{
 .con-4{
         text-align: center;
         padding: 50px;
+         background-color: rgb(255, 212, 82);
+        opacity: 0.9;
         
 }
 #con4-vid{
